@@ -1,3 +1,4 @@
+//src/model/keyToken.model.js
 "use strict";
 
 //key !dmbg install by Mongo Snippet for Node-js
@@ -13,6 +14,10 @@ const keyTokenSchema = new Schema(
             type: Schema.Types.ObjectId,
             required: true,
             ref: 'Shop'
+        },
+        privateKey: {
+            type: String,
+            required: true,
         },
         publicKey: {
             type: String,

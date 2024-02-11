@@ -29,3 +29,11 @@ E
 src/auth/authUtils.js,1\5\156f213dbc9d395d4f61b3f34c37a51472ad004d
 L
 src/models/keyToken.model.js,e\b\ebecad9351e7e20906bf362e2cf2e2b6e9c428e1
+C
+src/routes/index.js,a\2\a2809aa693b8ad396fe7635ecf4652e70593ee27
+8
+src/.env,f\8\f8550963f8b93cc32435b4600b84f3d3def8daa7
+B
+src/utils/index.js,8\4\8422e1a0f93b679c1e2dd76877ca92a30349f250
+A
+src/tsconfig.json,f\4\f48486f491a6cc1de5c7d3cb2474784ae98e4dcf
